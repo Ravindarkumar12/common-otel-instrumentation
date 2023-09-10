@@ -1,0 +1,2 @@
+com\emrekumas\marvelousapiclient\configuration\MarvelousApiClientConfiguration.class
+com\emrekumas\marvelousapiclient\annotation\EnableOtelInstrumentation.class
